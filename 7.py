@@ -1,2 +1,5 @@
-distance = round((6502 + 4502)**0.5)
-print(distance)
+import math
+dis = round(math.sqrt(100**2 + 100**2))
+print(dis * 6)
+
+
